@@ -81,3 +81,54 @@ London_Bike_App/
 5. Visit localhost
   * [http://localhost:3000](http://localhost:8501/) in your browser to use the application.
 ---
+
+<img width="1536" height="812" alt="image" src="https://github.com/user-attachments/assets/3b1551d2-1746-489c-a258-c77af225174a" />
+
+Figure 1: The dashboard of Fleet Health Overview (1) - This screen presents information about public bicycles in London based on data from the first month, giving management an overview of the usage metrics of the bicycles.
+
+<img width="1429" height="759" alt="image" src="https://github.com/user-attachments/assets/1f954be5-0423-4775-a9f5-40937d87a140" />
+
+Figure 2: The dashboard of Fleet Health Overview (2) - The screen displays the total time spent between two types of bicycle models while also creating a search list for bicycle information based on ID.
+
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/6a4de1c0-fb3e-4984-bfa3-6521b23366fe" />
+
+Figure 3. The Operation Intelligence Screen (1) - The original screen needs to upload the data file for the next month, retrieving data from cycling.data.tfl.gov.uk.
+
+<img width="1536" height="815" alt="image" src="https://github.com/user-attachments/assets/ba9eb691-730d-4854-a790-13f01ad9cdb1" />
+
+Figure 4. The Operation Intelligence Screen (2). After successfully uploading the data, the list of trips for the vehicles will be displayed.
+
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/f541cf53-9e16-442f-bbba-e2eb06140c06" />
+
+Figure 5. The Operation Intelligence Screen (2). After successfully uploading the data, the list of trips for the vehicles will be displayed.
+
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/cd08c144-92cc-4329-9216-96ad5a2b8c1f" />
+
+Figure 6. The Operation Intelligence Screen (3) - Whenever uploading data, it is necessary to synchronise the data to save the file to the backend database and activate the trip accumulation feature.
+
+<img width="1536" height="815" alt="image" src="https://github.com/user-attachments/assets/dbdccfe5-0315-4c2f-8564-fe976d13934b" />
+
+Figure 7. The Operation Intelligence Screen (4) - The screen displays a list of uploaded files, while preventing files with duplicate names or dates that have been uploaded previously, eliminating the risk of indefinite cumulative errors and data inaccuracies.
+
+<img width="1429" height="759" alt="image" src="https://github.com/user-attachments/assets/a1abb676-7e80-4487-9323-8545b81d3846" />
+
+Figure 8. The Operation Intelligence Screen (5) - The screen displays a list of vehicles that need maintenance due to reaching the operational hour threshold, while integrating checkboxes to ensure those vehicles are transferred to the backend data with a value of zero.
+
+<img width="1536" height="815" alt="image" src="https://github.com/user-attachments/assets/1f9913b7-3545-44d1-a5d2-bba90f880263" />
+
+Figure 9. Emergency alert for 24h cases - Check the 24h cases as stolen or any emergency situation, integrate the drop-down information of bike status.
+
+<img width="1536" height="815" alt="image" src="https://github.com/user-attachments/assets/34a8a6c3-80b5-4c2b-a9a2-fa188e32b9b4" />
+
+Figure 10. Emergency Alert using click on check box and confirm those bike before update them into data baseline.
+
+<img width="1536" height="813" alt="image" src="https://github.com/user-attachments/assets/b187fa04-4d51-4fe5-83e2-68b072171ab4" />
+
+Figure 11. Emergency alert of under 1 minute cases.
+
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/10006c86-41eb-46b6-b8d8-f491015c56b8" />
+
+Figure 12. The visualisation of the station where accomodates many under 1 minute bikes.
+
+
+
